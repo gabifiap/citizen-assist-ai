@@ -1,0 +1,112 @@
+[
+  {
+    "id": 1,
+    "categoria": "Saúde e Reabilitação",
+    "titulo": "Solicitação de órteses, próteses e meios auxiliares de locomoção (OPM)",
+    "palavras_chave": ["protese", "orteses", "cadeira de rodas", "aparelho auditivo", "sus", "locomocao", "materiais"],
+    "resposta": "O cidadão com deficiência tem direito a receber de forma totalmente gratuita pelo SUS órteses, próteses e materiais especiais para reabilitação e locomoção. É necessário realizar avaliação médica prévia em unidade pública de saúde para obter o encaminhamento formal aos centros de reabilitação especializados.",
+    "documentos": ["Cartão Nacional de Saúde (Cartão SUS atualizado)", "Documento de identidade oficial com foto", "CPF", "Comprovante de residência recente", "Laudo médico descritivo com indicação do CID"],
+    "onde": "Unidade Básica de Saúde (UBS) de referência ou Centro Especializado em Reabilitação (CER)",
+    "fonte": "https://www.gov.br/saude",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 2,
+    "categoria": "Saúde e Reabilitação",
+    "titulo": "Emissão da Carteira de Identificação da Pessoa com TEA (CIPTEA)",
+    "palavras_chave": ["ciptea", "autismo", "carteira do autista", "identificacao", "espectro autista"],
+    "resposta": "A CIPTEA é um documento oficial que visa garantir atenção integral, pronto atendimento e prioridade absoluta no acesso aos serviços públicos e privados em todo o território nacional, especialmente nas áreas de saúde, educação e assistência social.",
+    "documentos": ["Requerimento de emissão preenchido", "Laudo médico com indicação explícita do CID do autismo", "Documento de identificação oficial do autista", "Documento de identificação do responsável legal (se aplicável)"],
+    "onde": "Órgãos estaduais ou municipais responsáveis pelas secretarias de assistência social ou de saúde",
+    "fonte": "https://www.gov.br/direitos-humanos",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 3,
+    "categoria": "Saúde e Reabilitação",
+    "titulo": "Concessão do Benefício de Prestação Continuada (BPC/LOAS) para PcD",
+    "palavras_chave": ["bpc", "loas", "beneficio", "assistencia social", "deficiencia", "salario minimo", "inss"],
+    "resposta": "O BPC assegura o pagamento mensal de um salário mínimo ao cidadão com deficiência de longo prazo que comprove impedimentos de natureza física, mental, intelectual ou sensorial, somados à incapacidade de prover a própria subsistência ou tê-la provida pela família.",
+    "documentos": ["CPF e documento de identificação com foto", "Comprovante de residência atualizado", "Inscrição e atualização cadastral regular no CadÚnico"],
+    "onde": "Aplicativo ou site oficial do Meu INSS, ou presencialmente nos postos de atendimento do CRAS",
+    "fonte": "https://www.gov.br/inss",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 4,
+    "categoria": "Mobilidade e Transporte",
+    "titulo": "Emissão do Passe Livre Interestadual para Pessoas com Deficiência",
+    "palavras_chave": ["passe livre", "transporte gratuito", "onibus interestadual", "viagem gratis", "transporte federal"],
+    "resposta": "O programa garante à pessoa com deficiência comprovadamente carente o direito à gratuidade nas viagens de transporte coletivo interestadual de passageiros (rodoviário, ferroviário e aquaviário entre estados diferentes).",
+    "documentos": ["Formulário padrão do programa devidamente preenchido", "Laudo médico padronizado emitido nos últimos meses", "Foto 3x4 recente", "Documentos pessoais de identificação", "Comprovante oficial de renda familiar"],
+    "onde": "Ministério dos Direitos Humanos e da Cidadania através do portal digital Gov.br",
+    "fonte": "https://www.gov.br/transportes",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 5,
+    "categoria": "Mobilidade e Transporte",
+    "titulo": "Solicitação de Credencial de Estacionamento para Vaga Especial PcD",
+    "palavras_chave": ["vaga pcd", "estacionamento", "credencial", "deficiente", "transito", "vaga especial"],
+    "resposta": "A credencial de estacionamento é uma autorização obrigatória para estacionar veículos em vagas reservadas e regulamentadas para pessoas com deficiência física, visual ou com dificuldade de mobilidade, tanto em vias públicas quanto em recintos de uso coletivo.",
+    "documentos": ["Formulário de solicitação preenchido", "Laudo médico oficial atestando o grau e o tipo de deficiência ou mobilidade reduzida", "Documento de identidade oficial do requerente"],
+    "onde": "Órgão executivo de trânsito municipal (Secretaria de Trânsito ou DETRAN da respectiva cidade)",
+    "fonte": "https://www.gov.br/transportes",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 6,
+    "categoria": "Mobilidade e Transporte",
+    "titulo": "Obtenção do Bilhete Especial de Transporte Público Metropolitano",
+    "palavras_chave": ["bilhete especial", "transporte publico", "onibus municipal", "metro", "trem", "isencao tarifa"],
+    "resposta": "Concede isenção tarifária integral nos meios de transporte público urbano e metropolitano (como ônibus municipais, linhas de metrô e trens de superfície) para cidadãos com deficiência que atendam aos requisitos legais e critérios médicos estabelecidos.",
+    "documentos": ["Laudo médico específico exigido pelo sistema de transporte", "RG e CPF originais", "Comprovante de residência recente"],
+    "onde": "Postos de atendimento das empresas de transporte público da região ou secretarias municipais de mobilidade",
+    "fonte": "https://www.gov.br/cidades",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 7,
+    "categoria": "Direitos e Isenções",
+    "titulo": "Isenção de IPI na Aquisição de Veículo Adaptado para PcD",
+    "palavras_chave": ["isencao ipi", "carro pcd", "veiculo adaptado", "imposto federal", "automovel"],
+    "resposta": "Pessoas com deficiência física, visual, mental severa ou profunda, ou com transtorno do espectro autista (por meio de representante legal), possuem o direito garantido por lei à isenção total do Imposto sobre Produtos Industrializados (IPI) ao comprar carros novos.",
+    "documentos": ["Laudo médico oficial emitido por rede pública ou credenciada", "CPF regularizado", "Comprovante de regularidade fiscal perante a Receita Federal"],
+    "onde": "Sistema Sapiens / Portal e-CAC no site oficial da Receita Federal do Brasil",
+    "fonte": "https://www.gov.br/receitafederal",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 8,
+    "categoria": "Direitos e Isenções",
+    "titulo": "Isenção de IPVA para Veículos Pertencentes ou Adaptados para PcD",
+    "palavras_chave": ["ipva", "isencao imposto", "carro pcd", "detran", "imposto estadual", "veiculo"],
+    "resposta": "Garante a isenção completa do pagamento anual do Imposto sobre a Propriedade de Veículos Automotores (IPVA) para automóveis que pertençam a pessoas com deficiência ou que possuam adaptações específicas exigidas pela sua condição.",
+    "documentos": ["Laudo médico homologado pelo DETRAN ou SUS", "Documento de propriedade do veículo (CRV/CRLV)", "Comprovante de residência", "Requerimento administrativo preenchido"],
+    "onde": "Secretaria da Fazenda do Estado (Sefaz) ou postos integrados do DETRAN estadual",
+    "fonte": "https://www.gov.br/fazenda",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 9,
+    "categoria": "Direitos e Isenções",
+    "titulo": "Garantia de Atendimento Educacional Especializado (AEE)",
+    "palavras_chave": ["aee", "educacao especial", "escola publica", "atendimento escolar", "inclusao", "estudante"],
+    "resposta": "O estudante com deficiência matriculado na rede regular de ensino tem direito assegurado por lei ao Atendimento Educacional Especializado (AEE), que ocorre em cont turno nas salas de recursos multifuncionais para apoiar seu aprendizado.",
+    "documentos": ["Histórico ou boletim escolar atual", "Laudo médico caracterizador da deficiência", "Certidão de nascimento ou documento de identidade do aluno"],
+    "onde": "Escolas públicas da rede municipal ou estadual de ensino",
+    "fonte": "https://www.gov.br/mec",
+    "verificado_em": "2026-11-05"
+  },
+  {
+    "id": 10,
+    "categoria": "Direitos e Isenções",
+    "titulo": "Direito Legal ao Atendimento Prioritário em Filas e Estabelecimentos",
+    "palavras_chave": ["atendimento prioritario", "fila preferencial", "prioridade legal", "direitos pcd", "atendimento"],
+    "resposta": "Pessoas com deficiência possuem direito irrevogável ao atendimento prioritário imediato em bancos, caixas comerciais, repartições públicas, unidades de saúde e empresas prestadoras de serviços em geral.",
+    "documentos": ["Documento de identificação oficial válido que comprove a condição ou apresentação de laudo/credencial correspondente"],
+    "onde": "Qualquer estabelecimento comercial, financeiro ou órgão de atendimento público ao cidadão",
+    "fonte": "https://www.gov.br/mj",
+    "verificado_em": "2026-11-05"
+  }
+]
