@@ -83,7 +83,6 @@ Todas as orientações cadastradas na base de conhecimento (`data/base_conhecime
 ---
 
 ## 7. Resultados dos Testes com Usuários (Validação)
-*O projeto foi testado por três usuários externos (representantes do público-alvo e familiares).*
 
 * Total de atendimentos realizados nos testes: **12**
 * Taxa de respostas encontradas (%): **83.3%**
