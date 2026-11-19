@@ -101,4 +101,4 @@ Todas as orientações cadastradas na base de conhecimento (`data/base_conhecime
 
 ## 9. Link do Vídeo Técnico
 Assista à demonstração técnica completa do código e do projeto no YouTube:
-👉 [Link do Vídeo no YouTube (Não Listado)](https://youtu.be/SEU_LINK_AQUI)
+[Link do Vídeo no YouTube (Não Listado)][(https://youtu.be/SEU_LINK_AQUI)](https://youtu.be/OaAYKluk5Jk)
