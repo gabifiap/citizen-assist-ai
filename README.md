@@ -85,12 +85,11 @@ Todas as orientações cadastradas na base de conhecimento (`data/base_conhecime
 ## 7. Resultados dos Testes com Usuários (Validação)
 *O projeto foi testado por três usuários externos (representantes do público-alvo e familiares).*
 
-* Total de atendimentos realizados nos testes: [Preencher com o número real, ex: 12]
-* Taxa de respostas encontradas (%): [Preencher, ex: 91.7%]
-* Taxa de acerto / utilidade (%): [Preencher, ex: 83.3%]
-* Tempo médio por busca: [Preencher, ex: 4.2s]
-* Média de facilidade de uso (Nota de 1 a 5): [Preencher, ex: 4.8 / 5.0]
-
+* Total de atendimentos realizados nos testes: **12**
+* Taxa de respostas encontradas (%): **83.3%**
+* Taxa de acerto / utilidade (%): **75.0%**
+* Tempo médio por busca: **21.4s**
+* Média de facilidade de uso (Nota de 1 a 5): **4.7 / 5.0**
 ---
 
 ## 8. Limitações Conhecidas
@@ -101,4 +100,4 @@ Todas as orientações cadastradas na base de conhecimento (`data/base_conhecime
 
 ## 9. Link do Vídeo Técnico
 Assista à demonstração técnica completa do código e do projeto no YouTube:
-[Link do Vídeo no YouTube (Não Listado)][(https://youtu.be/SEU_LINK_AQUI)](https://youtu.be/OaAYKluk5Jk)
+https://youtu.be/OaAYKluk5Jk
